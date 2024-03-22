@@ -1,0 +1,6 @@
+sequenceDiagram
+  participant A as Alice
+  participant B as Bob
+
+  A ->>+ B: ping
+  B -->>- A: pong
